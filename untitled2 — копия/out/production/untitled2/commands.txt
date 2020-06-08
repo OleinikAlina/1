@@ -1,0 +1,9 @@
+DEFINE Commands.CommandDefine
+PUSH Commands.CommandPush
+POP Commands.CommandPop
+PRINT Commands.CommandPrint
++ Commands.CommandPlus
+- Commands.CommandMinus
+* Commands.CommandMultiplication
+/ Commands.CommandDivision
+SQRT Commands.CommandSqrt
